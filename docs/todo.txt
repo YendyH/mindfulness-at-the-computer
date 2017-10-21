@@ -23,7 +23,7 @@
 
 [ ] adding presets
 
-[ ] if the user only breathes in then the in breaht will be removed
+[ ] if the user only breathes in then the in breath will be removed
 
 =========
 
